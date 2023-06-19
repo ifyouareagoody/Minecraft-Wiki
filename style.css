@@ -9,3 +9,8 @@ body {
 #minecraft_wiki_info {
     text-align: center;
 }
+
+#text {
+    width: 400px;
+    height: 200px;
+}
